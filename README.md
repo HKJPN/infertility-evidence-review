@@ -1,4 +1,4 @@
-# Evidence Review: Dietary, Nutritional, and Lifestyle Interventions in Infertility Care　[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/deed.ja)
+# Evidence Review: Dietary, Nutritional, and Lifestyle Interventions in Infertility Care　[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Welcome to this repository. This project provides a comprehensive and objective review of current clinical evidence—focusing primarily on Randomized Controlled Trials (RCTs) and meta-analyses—regarding dietary, nutritional, supplemental, and lifestyle interventions in both female and male infertility.
 
