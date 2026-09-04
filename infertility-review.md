@@ -5,7 +5,8 @@
 **Updated September 2026**
 
 
-Hidefumi Kuwata
+[Hidefumi Kuwata](https://www.researchgate.net/profile/Hidefumi-Kuwata)
+
 
 ---
 
