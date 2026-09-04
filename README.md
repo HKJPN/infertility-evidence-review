@@ -22,3 +22,10 @@ The information provided in this repository is for academic, educational, and in
 
 ## 🕒 Update History
 - **September 2026**: Initial release (incorporating recent large-scale RCTs and updated guidelines).
+
+## License
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+You are free to share and adapt the material for any purpose, even commercially, as long as you provide appropriate credit.
