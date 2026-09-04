@@ -10,8 +10,8 @@ Welcome to this repository. This project provides a comprehensive and objective 
 ## 📂 Available Reports
 Click the links below to read the full markdown reports:
 
-- 🇬🇧 **[Read the English Report](infertility-evidence.md)**
-- 🇯🇵 **[日本語版 (Japanese Version)](infertility-evidence-ja.md)**
+- 🇬🇧 **[Read the English Report](infertility-review.md)**
+- 🇯🇵 **[日本語版 (Japanese Version)](infertility-review-ja.md)**
 
 ## 💡 Key Takeaway
 A central theme across this review is the critical distinction between **intermediate biological outcomes** (e.g., improved sperm DNA fragmentation, semen parameters, or oocyte yield) and **patient-important clinical outcomes** (i.e., live birth). 
