@@ -514,7 +514,28 @@ Potential future human studies could examine:
 
 ---
 
-# 11. Conclusions
+# 11. Limitations and Scope
+
+Several limitations of this report should be considered when interpreting its findings.
+
+First, this report was **not conducted as a systematic review**. The interventions included were selected on the basis of their relevance to infertility care, the availability of human intervention studies, clinical interest, and potential research significance. A predefined comprehensive search strategy, database protocol, eligibility criteria, and formal study-selection process were not used. The interventions discussed should therefore not be considered exhaustive, and relevant dietary, nutritional, supplemental, or lifestyle interventions may not have been included. The selection of interventions and representative studies may also be subject to selection bias.
+
+Second, the **A–E evidence categories used in this report are pragmatic comparative categories rather than formal GRADE assessments**. Individual studies were not systematically scored for risk of bias, publication bias, imprecision, indirectness, or inconsistency. These categories should therefore not be interpreted as equivalent to evidence ratings or recommendation grades used in clinical practice guidelines.
+
+Third, substantial clinical and methodological heterogeneity exists across infertility intervention studies. Study populations differ with respect to underlying diagnosis, age, ovarian reserve, PCOS status, male-factor infertility, baseline nutritional status, ART protocol, concomitant therapy, intervention dose, and duration. DOR, POR, PCOS, unexplained infertility, and male OAT, for example, represent biologically and clinically distinct populations. Findings from one population should therefore not be assumed to apply directly to another.
+
+Fourth, the outcomes reported across studies vary considerably. Intermediate outcomes—including oocyte yield, MII oocyte number, embryo quality, sperm concentration, motility, and sperm DNA fragmentation—are reported more frequently than patient-important reproductive outcomes such as clinical pregnancy, ongoing pregnancy, and particularly **live birth**. Consequently, improvements in biological or intermediate outcomes should not be interpreted as evidence of improved live-birth probability unless this has been demonstrated directly.
+
+Fifth, studies of dietary supplements often differ in formulation, dose, treatment duration, co-administered ingredients, and product specifications. Results obtained with a specific preparation cannot necessarily be generalized to all products containing the same nominal ingredient.
+
+This report reflects evidence available as of **September 2026**. Research in reproductive medicine and nutritional intervention continues to evolve, and the interpretation of interventions such as CoQ10, DHEA, antioxidant therapy, sperm DNA fragmentation-targeted approaches, and polyamine-related interventions may change as larger randomized trials and updated meta-analyses become available.
+
+Accordingly, this report should be regarded as a **narrative evidence overview intended to summarize the current landscape, distinguish relatively mature areas of evidence from emerging research opportunities, and identify important gaps for future investigation**. It is not intended to provide a comprehensive systematic review, establish definitive efficacy, or serve as a clinical practice guideline.
+
+
+---
+
+# 12. Conclusions
 
 Current evidence shows that dietary, nutritional, supplemental, and lifestyle interventions can produce measurable biological effects in both female and male infertility.
 
@@ -546,7 +567,7 @@ Closing this gap between biological plausibility and rigorous human evidence—i
 
 ---
 
-# 12. Abbreviations
+# 13. Abbreviations
 
 | Abbreviation   | Full term                        |
 | -------------- | -------------------------------- |
@@ -573,7 +594,7 @@ Closing this gap between biological plausibility and rigorous human evidence—i
 
 ---
 
-# 13. Representative References
+# 14. Representative References
 
 1. **Effect of dehydroepiandrosterone administration before in vitro fertilization on the live birth rate in poor ovarian responders according to the Bologna criteria: a randomized controlled trial.**
    PubMed: [https://pubmed.ncbi.nlm.nih.gov/34882964/](https://pubmed.ncbi.nlm.nih.gov/34882964/)
