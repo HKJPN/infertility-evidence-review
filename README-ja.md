@@ -11,8 +11,8 @@
 ## 📂 公開レポート
 以下のリンクから各言語のレポート本文（Markdown形式）をご覧いただけます。
 
-- 🇯🇵 **[日本語版レポートを読む](infertility-evidence-ja.md)**
-- 🇬🇧 **[English Version](infertility-evidence-en.md)**
+- 🇯🇵 **[日本語版レポートを読む](infertility-review-ja.md)**
+- 🇬🇧 **[English Version](infertility-review.md)**
 
 ## 💡 本レポートの重要なメッセージ
 本レポート全体を通じた最大の結論は、**「精液所見や精子DNA断片化（DFI）、採卵数といった『中間アウトカム』の改善が、必ずしも『妊娠・生産（Live birth）』という最終アウトカムの改善を保証するものではない」**という点です。
